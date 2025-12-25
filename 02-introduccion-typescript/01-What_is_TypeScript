@@ -1,0 +1,8 @@
+TypeScript no es un lenguaje nuevo desde cero;
+es un Superset (superset) de JavaScript. Esto
+significa que todo el código JS es código TS válido,
+pero TS añade una "capa de superpoderes": el tipado
+estático.
+  nota: Los navegadores NO entienden TypeScript. Por
+  eso, necesitamos un "traductor" llamado Transpilador
+  que convierte nuestro código .ts a .js.
